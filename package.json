@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-agendador",
+  "version": "1.0.0",
+  "description": "Envia mensagens automaticas no WhatsApp em dias e horarios definidos",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-cron": "^3.0.3"
+  }
+}
