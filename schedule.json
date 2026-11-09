@@ -1,16 +1,10 @@
 [
   {
-    "nome": "Bom dia Samila",
-    "numero": "5519997365179",
-    "mensagem": "Bom diaaa bb.",
+    "nome": "TESTE",
+    "numero": "551199999999",
+    "mensagem": "Bom diaaa",
     "dias": ["seg", "ter", "qua", "qui", "sex"],
     "horario": "04:00"
   },
-  {
-    "nome": "D",
-    "numero": "5519997365179",
-    "mensagem": "Dormiu Bem?.",
-    "dias": ["seg", "ter", "qua", "qui", "sex"],
-    "horario": "04:00"
-  }
+  
 ]
